@@ -1,10 +1,10 @@
 
-Privacy Policy for EDScan
-Effective Date: January 3, 2026
+# Privacy Policy for EDScan
+**Effective date:** January 3, 2026
 
-Developer: [Your Company/Developer Name]
+Developer: NextGen Codemasters
 
-Contact: [your-email@example.com]
+Contact: codemasters.ad@gmail.com
 
 Introduction
 EDScan ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
